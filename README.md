@@ -1,6 +1,6 @@
 # Comparative Analysis of Machine Learning Techniques for Forecasting Weather: A case study
 
-This is the repository of of the project UTA-MAYOR N°6726-20 of the Universidad de Tarapaca
+This is the repository of the project UTA-MAYOR N°6726-20 from the Universidad de Tarapaca
 
 Link paper Soon
 
