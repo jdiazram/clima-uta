@@ -2,7 +2,7 @@
 
 This is the repository of the project UTA-MAYOR N°6726-20 from the Universidad de Tarapaca
 
-Link paper Soon
+[Link paper](https://www.interciencia.net/wp-content/uploads/2024/05/05_7116_Com_Diaz_Ramirez_v49n5_9.pdf)
 
 # Objective 
 The objective of this research was to conduct a comparative analysis of Machine Learning techniques to evaluate their performance and understand their contribution to climate forecasting in the city of Iquique.
