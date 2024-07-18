@@ -16,6 +16,9 @@ Climate change is here and is a reality in the world; therefore, studying this p
 
 
 # Citation
+
+If you find this work interesting and valuable for your research, I invite you to cite us in your articles.
+
 ```
 @article{Diaz-Ramirez2024,
         title={Comparative Analysis of Machine Learning Techniques for Forecasting Weather: A Case Study},
